@@ -1,0 +1,42 @@
+body{
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/98/462/desktop-wallpaper-gengar-is-my-favorite-pokemon-pokemon-gengar-phone-thumbnail.jpg" );
+background-repeat: no-repeat ;
+background-size: cover;
+
+}
+
+
+.contenedorPokemon{
+
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    
+}
+
+.contenedorPokemon section{
+background-image: url("https://media.tenor.com/D88nxWonsZgAAAAM/galaxy.gif");
+background-repeat: no-repeat ;
+background-size: cover;
+width: 300px;
+height: 300px;
+display: grid;
+justify-content: center;
+text-align: center;
+border-radius: 20px;
+
+}
+
+.contenedorPokemon p{
+
+    font-size: 20px;
+                                                                  font-family: 'Pokemon Solid', sans-serif;
+
+}
+
+.contenedorPokemon img{
+
+    height: 200px;
+}
